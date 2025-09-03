@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=KOMPAS-3D
+Comment=Запуск KOMPAS-3D через Bottles
+Exec=kompas %u
+Type=Application
+StartupNotify=true
+Terminal=false
+Icon="/home/surtsev/Pictures/logo.png"
+Categories=Graphics;Engineering;Wine;
+
